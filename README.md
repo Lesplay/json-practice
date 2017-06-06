@@ -1,6 +1,6 @@
 # json-practice
 
-A practical exercise with the use of http://jsonplaceholder.typicode.com/
+A practical exercise with the use of http://jsonplaceholder.typicode.com/ done as a break from my Blood Bowl app project.
 
 The aim of this is to write a function that will create an automatic download of users with some tricky limitations.
 
